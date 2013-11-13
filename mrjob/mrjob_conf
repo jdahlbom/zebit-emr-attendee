@@ -1,0 +1,5 @@
+runners:
+  emr:
+    ec2_key_pair: EMR
+    aws_access_key_id: <your_aws_access_key_here>
+    aws_secret_access_key: <yout aws_secret_key here>
